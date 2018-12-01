@@ -1,0 +1,32 @@
+{
+  "name": "ssr2",
+  "version": "1.0.0",
+  "description": "server side rendering server",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanbrito/ssr2.git"
+  },
+  "keywords": [
+    "express",
+    "nextjs",
+    "server",
+    "side",
+    "rendering"
+  ],
+  "author": "Roman Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanbrito/ssr2/issues"
+  },
+  "homepage": "https://github.com/romanbrito/ssr2#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
